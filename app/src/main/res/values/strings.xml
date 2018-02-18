@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">WorkApp</string>
+    <string name="facebook_app_id">227965824445444</string>
+    <string name="fb_login_protocol_scheme">fb227965824445444</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="signup">Registrarme</string>
+    <string name="or">ó</string>
+    <string name="login_with_facebook">Iniciar sesión con Facebook</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="talk_us_about_you">Cuéntanos de ti</string>
+    <string name="im_a_person">Soy una persona</string>
+    <string name="im_a_stablishment">Soy un establecimiento</string>
+    <string name="name">Nombre</string>
+    <string name="last_names">Apellidos</string>
+    <string name="fill_my_info_with_facebook">Llenar mis datos con Facebook</string>
+    <string name="next">Siguiente</string>
 </resources>

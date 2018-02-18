@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Iniciar Sesión</string>
+    <string name="signup">Registrarme</string>
+    <string name="or">ó</string>
+    <string name="login_with_facebook">Iniciar sesión con Facebook</string>
+    <string name="password">Contraseña</string>
+    <string name="talk_us_about_you">Cuéntanos de ti</string>
+    <string name="name">Name</string>
+    <string name="last_names">Apellidos</string>
+    <string name="next">Siguiente</string>
+</resources>

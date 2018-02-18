@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    tools:context="com.xcript.workapp.login.wizard.WizardStablishmentPerson">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="@string/talk_us_about_you" />
+
+    <Button
+        android:id="@+id/buttonImStablishment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/background_login_button"
+        android:text="@string/im_a_stablishment"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/buttonImPerson"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/background_signup_button"
+        android:text="@string/im_a_person"
+        android:textAllCaps="false" />
+</LinearLayout>
